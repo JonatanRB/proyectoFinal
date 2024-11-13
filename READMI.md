@@ -1,8 +1,8 @@
-# **negrita** Proyecto final "Pinteres"
+# **Proyecto final "Pinteres"**
 
 Este proyecto consta de replicar la estructura html de pinteres de manera colaborativa.
 
-## **negrita** AUTORES
+## **AUTORES**
 
 1. Rea Barbosa Jonatan
 2. Scarlet
