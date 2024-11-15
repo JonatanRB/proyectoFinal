@@ -1,15 +1,26 @@
-# **Proyecto final "Pinteres"**
+# **"Pinteres"**
 
-Este proyecto consta de replicar la estructura html de pinteres de manera colaborativa.
+Este proyecto es una réplica de la interfaz de usuario de Pinterest utilizando HTML. El objetivo es recrear la estructura visual y funcional de la plataforma, incluyendo la disposición de los elementos, los mosaicos de imágenes, y la navegación. Con este proyecto se busca profundizar en el uso de HTML para la mejorar de habilidades en frontend, imitando un diseño web moderno y atractivo.
 
 ## **AUTORES**
 
-1. Rea Barbosa Jonatan
-2. Scarlet
+1. Jonatan
+    - correo: jonreabarbosa@gmail.com
+2. Scarlett 
+    - correo: 
 3. Kaleb
+    - correo: rtkaleb@gmail.com
 4. Jusef
-5. Antonio Napoles
+    - correo: jair.jcp@hotmail.com
+5. Tony Napoles
+    - correo: An631_123@hotmail.com
 6. Jorge Adan
+    - correo: jorgadan@icloud.com
+
+
+![alt text](image.png)
 
 ### Repositorio
-https://github.com/JonatanRB/proyectoFinal
+ colocar link
+### Github Pages
+colocar link
