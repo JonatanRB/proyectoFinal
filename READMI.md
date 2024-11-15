@@ -7,7 +7,7 @@ Este proyecto es una réplica de la interfaz de usuario de Pinterest utilizando 
 1. Jonatan
     - correo: jonreabarbosa@gmail.com
 2. Scarlett 
-    - correo: 
+    - correo: ssolorzano0@ucol.mx
 3. Kaleb
     - correo: rtkaleb@gmail.com
 4. Jusef
